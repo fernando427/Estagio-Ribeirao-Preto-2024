@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709934755038</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Estágio Ribeirão Preto 2024:fire:&#10;&#10;(cherry picked from commit f1a1b048e4313b455dcf97bc212239657d057748)">
+      <created>1709934863985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709934863985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estágio Ribeirão Preto 2024 :fire:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estágio Ribeirão Preto 2024 :fire:" />
+    <MESSAGE value="Estágio Ribeirão Preto 2024:fire:&#10;&#10;(cherry picked from commit f1a1b048e4313b455dcf97bc212239657d057748)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estágio Ribeirão Preto 2024:fire:&#10;&#10;(cherry picked from commit f1a1b048e4313b455dcf97bc212239657d057748)" />
   </component>
 </project>
