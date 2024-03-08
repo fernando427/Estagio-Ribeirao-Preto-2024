@@ -7,7 +7,7 @@ public class Questao4 {
     Se a lâmpada estiver apagada porém quente então era o primeiro interruptor.
     Se a lâmpada estiver apagada porém fria então era o terceiro interruptor.
 
-    faço isso na primeira sala e na segunda sala para descobrir as duas situações, sobrando a terceira sala para a
+    faço isso na primeira sala e na segunda sala para descobrir as duas situações, assim sobrando a terceira sala para a
     alternativa que ficou restando.
      */
 }

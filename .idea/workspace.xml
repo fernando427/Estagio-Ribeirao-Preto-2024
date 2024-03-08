@@ -49,7 +49,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PICHAU/Downloads/Estagio Ribeirao Preto 2024&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Questao2">
+  <component name="RunManager" selected="Application.Questao1">
     <configuration name="Questao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questao1" />
       <module name="Estagio Ribeirao Preto 2024" />
@@ -80,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Questao2" />
         <item itemvalue="Application.Questao1" />
+        <item itemvalue="Application.Questao2" />
         <item itemvalue="Application.Questao5" />
         <item itemvalue="Application.Questao3" />
       </list>

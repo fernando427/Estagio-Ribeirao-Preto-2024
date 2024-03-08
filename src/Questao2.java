@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Questao2 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.print("Digite um número: "); // Digite um número que pode ou não estar na sequência
+        System.out.print("Digite um número: "); // Digite um número que pode ou não estar na sequência.
         int n = s.nextInt();
         s.close();
 

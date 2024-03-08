@@ -5,8 +5,8 @@ public class Questao1 {
         int k = 0;
 
         while (k < i) {
-            k = k + 1;
-            soma = soma + k;
+            k += 1;
+            soma += k;
         }
 
         System.out.println(soma); // Resultado: 91

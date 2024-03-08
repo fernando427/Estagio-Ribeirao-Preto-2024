@@ -43,7 +43,7 @@ public class Questao3 {
         }
         System.out.println("");
 
-        System.out.println("Questão f) lógica: todos os números começam com a letra D, o próximo seria 200");
+        System.out.println("Questão f) lógica: todos os números começam com a letra D, o próximo seria 200.");
 
     }
 }
